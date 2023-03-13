@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    margin: 40px 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+.real_facts{
+    width: 600px;
+    height: 700px;
+}
+
+.real_facts img{
+    width: 600px;
+    height: 700px;
+}
+
+.note_section{
+    border: 1px solid black;
+    margin-left: 100px;
+   
+}
+
+.note_header {
+    border: 1px solid black;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.note_body_section{
+    padding: 30px;
+    font-size: 20px;
+    font-weight: 400;
+}
